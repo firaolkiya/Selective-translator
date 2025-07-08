@@ -1,4 +1,5 @@
 # Selective Translator Chrome Extension
+![Demo](https://github.com/user-attachments/assets/51c4c094-66c6-4062-b7ce-e2ab47e4f995)
 
 A Chrome extension that allows users to select any rectangular area on a webpage and translate the text within that area.
 
@@ -122,6 +123,7 @@ Modify `content.css` to customize the appearance of the selection box and transl
 2. Go to `chrome://extensions/`
 3. Click the refresh icon on your extension
 4. Test the changes on a webpage
+
 
 ## Contributing
 
