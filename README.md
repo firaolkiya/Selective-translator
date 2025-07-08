@@ -1,5 +1,6 @@
 # Selective Translator Chrome Extension
 ![Demo](https://github.com/user-attachments/assets/51c4c094-66c6-4062-b7ce-e2ab47e4f995)
+<video src="https://github.com/user-attachments/assets/51c4c094-66c6-4062-b7ce-e2ab47e4f995" width="100%" autoplay loop muted></video>
 
 A Chrome extension that allows users to select any rectangular area on a webpage and translate the text within that area.
 
